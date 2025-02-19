@@ -7,10 +7,13 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Hi there👋 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello! I am interested in HAI and NLP fields.</li></li>I am an undergraduate student at Hanyang University ERICA MUSE LAB. </div> 
     </div>
-## 🎓Study
-- ICT융합학부 미디어테크놀로지학과 전공
-- 지능형로봇학과 마이크로전공
-- 한양대학교 ERICA, MUSE LAB 학부연구생
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓Study </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+        - ICT융합학부 미디어테크놀로지학과 전공
+        - 지능형로봇학과 마이크로전공
+        - 한양대학교 ERICA, MUSE LAB 학부연구생 </div> 
+    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
