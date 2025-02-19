@@ -1,7 +1,6 @@
 ## Hi there, I'm Donghui Lim 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=
-star1sh&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=star1sh&show_icons=true&theme=default)
 
 <!--
 **star1sh/star1sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
