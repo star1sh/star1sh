@@ -8,9 +8,9 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓Study </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        - ICT융합학부 미디어테크놀로지학과 전공
-        <br>- 지능형로봇학과 마이크로전공
-        <br> - 한양대학교 ERICA, MUSE LAB 학부연구생 </div> 
+        -  ICT융합학부 미디어테크놀로지학과 전공
+        <br>-  지능형로봇학과 마이크로전공
+        <br> -  한양대학교 ERICA, MUSE LAB 학부연구생 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -33,14 +33,6 @@
            /> </div> 
     </div>
     
-
-안녕하세요! 꾸준히 노력하는 개발자 임동희입니다.
-
-
-## 🎓Study
-- ICT융합학부 미디어테크놀로지학과 전공
-- 지능형로봇학과 마이크로전공
-- 한양대학교 ERICA, MUSE LAB 학부연구생
 
 
 <!--
