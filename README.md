@@ -20,13 +20,6 @@
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:limdh1107@hanyang.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:[limdh1107@hanyang.ac.kr](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Alimdh1107%40hanyang.ac.kr)"> </a>
-         <a href=star1sh> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=[star1sh](https://www.instagram.com/sunsh1ne__d/?utm_source=ig_web_button_share_sheet)"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=star1sh&bg_color=180,00000000,00000000&title_color=89c7e1&text_color=89c7e1"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=star1sh&layout=compact&bg_color=180,00000000,00000000&title_color=89c7e1&text_color=89c7e1"
