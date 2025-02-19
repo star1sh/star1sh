@@ -1,5 +1,6 @@
 ## Hi there, I'm Donghui Lim 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star1sh&layout=Demo&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=star1sh&show_icons=true&theme=default)
 
 <!--
