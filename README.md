@@ -7,7 +7,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Hi there👋 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello! I am interested in HAI and NLP fields.</li></li>I am an undergraduate student at Hanyang University ERICA MUSE LAB. </div> 
     </div>
-    ## 🎓Study
+## 🎓Study
 - ICT융합학부 미디어테크놀로지학과 전공
 - 지능형로봇학과 마이크로전공
 - 한양대학교 ERICA, MUSE LAB 학부연구생
