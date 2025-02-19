@@ -22,7 +22,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:limdh1107@hanyang.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:limdh1107@hanyang.ac.kr"> </a>
+    <div style="text-align: left;"> <a href=mailto:limdh1107@hanyang.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:[limdh1107@hanyang.ac.kr](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Alimdh1107%40hanyang.ac.kr)"> </a>
          <a href=star1sh> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=star1sh"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
