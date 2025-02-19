@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Hi there👋 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello! I am interested in HAI and NLP fields.</li></li>I am an undergraduate student at Hanyang University ERICA MUSE LAB. <br>안녕하세요! 저는 HCI 및 HAI 분야에 관심을 갖고 있으며, 한양대학교 ERICA HCAI LAB 학부연구생으로 있습니다.</bt> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello! I am interested in HAI and NLP fields.</li></li>I am an undergraduate student at Hanyang University ERICA MUSE LAB. <br>안녕하세요! 저는 HCI 및 HAI 분야에 관심을 갖고 있으며, 한양대학교 ERICA MUSE LAB 학부연구생으로 있습니다.</bt> </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓Study </h2>  
