@@ -6,7 +6,7 @@
 ## 🎓Study
 - ICT융합학부 미디어테크놀로지학과 전공
 - 융합 전공 - 지능형로봇학과 마이크로전공 이수
-- HCAI LAB 학부연구생
+- 한양대학교 ERICA, MUSE LAB 학부연구생
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=star1sh&show_icons=true&theme=default)
 
