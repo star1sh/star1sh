@@ -3,6 +3,11 @@
 안녕하세요! 꾸준히 노력하는 개발자 임동희입니다.
 
 
+## 🎓Study
+- ICT융합학부 미디어테크놀로지학과 전공
+- 융합 전공 - 지능형로봇학과 마이크로전공 이수
+- HCAI LAB 학부연구생
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=star1sh&show_icons=true&theme=default)
 
 <!--
