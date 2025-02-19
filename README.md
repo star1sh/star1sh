@@ -10,9 +10,9 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓Study </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-       \n - ICT융합학부 미디어테크놀로지학과 전공
-        \n- 지능형로봇학과 마이크로전공
-        \n - 한양대학교 ERICA, MUSE LAB 학부연구생 </div> 
+       <br> - ICT융합학부 미디어테크놀로지학과 전공
+        <br>- 지능형로봇학과 마이크로전공
+        <br> - 한양대학교 ERICA, MUSE LAB 학부연구생 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
