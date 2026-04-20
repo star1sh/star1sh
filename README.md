@@ -3,7 +3,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Hi there👋 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello! My name is Lim Donghui. I am interested in HAI and NLP fields.</li></li>I am an undergraduate student at Hanyang University ERICA MUSE LAB. (24.08~) I'm currently in Okazaki Lab at Science Tokyo.(25.10~) <br>안녕하세요! 제 이름은 임동희입니다. HCI 및 HAI 분야에 관심을 갖고 있으며, 한양대학교 ERICA MUSE LAB의 학부연구생입니다.(24.08~) 현재는 도쿄과학대학교 Okazaki Lab 학부연구생으로 있습니다 (25.10~)</bt> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello! My name is Lim Donghui. I am interested in HAI and NLP fields.</li></li> 
+        I am an undergraduate student at Hanyang University ERICA MUSE LAB. (24.08~) I'm currently in Okazaki Lab at Science Tokyo.(25.10~) <br>안녕하세요! 제 이름은 임동희입니다. HCI 및 HAI 분야에 관심을 갖고 있으며, 한양대학교 ERICA MUSE LAB의 학부연구생입니다.(24.08~) 현재는 도쿄과학대학교 Okazaki Lab 학부연구생으로 있습니다 (25.10~)</bt> </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓Study </h2>  
