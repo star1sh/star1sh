@@ -22,6 +22,19 @@
           </div>
     </div>
     <div style="text-align: left;"> 
+        <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://www.instagram.com/sunsh1ne__d/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sunsh1ne__d/"> </a>
+         <a href=https://app.notion.com/p/a7b4bf52e1fa82de928c8131eca138c5?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://app.notion.com/p/a7b4bf52e1fa82de928c8131eca138c5?source=copy_link"> </a>
+         <a href=mailto:limdh1107@hanyang.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:limdh1107@hanyang.ac.kr"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    
     </div>
     
 
